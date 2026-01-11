@@ -4,7 +4,7 @@ This portfolio describes the home lab I designed and built to strengthen my prac
 
 Users connect through a firewall to internal services via a Windows 11 Jump box. This provides access to an Ubuntu Apache server running osTicket, a Windows server running Active Directory domain, and a full Security Onion monitoring stack. Each component was installed, configured, troubleshot, and documented by me to reflect real-world IT workflows and decision making.
 
-Lab Sections
+##Lab Sections
 
 Network Topology (Physical and Logical)
 pfSense Firewall and VLAN Segmentation
