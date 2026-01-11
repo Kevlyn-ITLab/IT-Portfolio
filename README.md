@@ -1,4 +1,4 @@
-Kev's IT Portfolio
+## Kev's IT Portfolio
 
 This portfolio describes the home lab I designed and built to strengthen my practical skills in IT support, networking, and security.  I use a hypervisor on my own hardware to run multiple virtual machines, simulating a real-world small business environment.
 
@@ -6,9 +6,9 @@ Users connect through a firewall to internal services via a Windows 11 Jump box.
 
 ## Lab Sections
 
-Network Topology (Physical and Logical)
-pfSense Firewall and VLAN Segmentation
-Windows 11 Jump Box
-osTicket on Ubuntu
-Active Directory Domain
-Security Onion Monitoring
+# Network Topology (Physical and Logical)
+# pfSense Firewall and VLAN Segmentation
+# Windows 11 Jump Box
+# osTicket on Ubuntu
+# Active Directory Domain
+# Security Onion Monitoring
