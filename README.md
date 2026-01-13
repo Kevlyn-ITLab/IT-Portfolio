@@ -11,13 +11,13 @@ This section documents the physical layout and logical segmentation of my home n
 ### Physical Topology
 ![Physical Topology](Physical-Topology.png)
 
-*This shows the actual physical layout of my home network, including the ISP Demarc, firewall/router, switches, APs, and where my home lab lives within the network. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance and reliability.*
+*This diagram shows the actual physical layout of my home network, including the ISP demarc, firewall/router, switches, access points, and where my home lab resides within the network. This demonstrates my understanding of hardware placement, cabling, and how choices affect performance, reliability, and scalability.*
 
 ### Logical Topology
 
 ![Logical Topology](Logical-Topology.png)
 
-*This shows the logical structure of my home network, highlighting traffic flow through my virtual lab. DHCP scopes and VLAN segmentation through pfSense, along with several servers all surveilled by security onion are documented. This showcases my example of designing, securing, and documenting enterprise level systems.*
+*This diagram shows the logical structure of my home network, highlighting traffic flow through my virtual lab. It documents DHCP scopes and VLAN segmentation via pfSense, and multiple lab servers all monitored by Security Onion. This demonstrates my ability to design, secure, and document enterprise style network environments.*
 
 # pfSense Firewall and VLAN Segmentation
 # Windows 11 Jump Box
